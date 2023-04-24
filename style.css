@@ -355,6 +355,13 @@ margin-bottom: 15px;
     border: 5px solid #00804b;
 
 }
+.teams .carousel .card .box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 
 /* responsivo */
 @media (max-width: 1300px){
